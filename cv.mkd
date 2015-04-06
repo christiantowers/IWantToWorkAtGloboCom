@@ -1,19 +1,86 @@
-Vaga
+Vagas
 ====
+* Techtudo
+* Area de Jornalismo
+* Plataforma de Comentários
+* Área de esporte
 
-[Preencha aqui a(s) vaga(s) que você pretende ordenadas por seu interesse - a primeira é a a sua prioridade]
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Christian de Oliveira Torres
+============================
+Dados Pessoais
+--------------
+* Endereço: Rua Marcelino Pacheco, 369 – Santa Isabel – Viamão – RS
+* Data de Nascimento: 25/09/1987
+* Estado Civil: Casado
+* Fones: (51)8553.3477 -  (51)3054.3477  Contato: (51)8499.1890 (Jaqueline)
+* E-mail: christian.the.towers@gmail.com
+* Linkedin: http://br.linkedin.com/pub/christian-de-oliveira-torres/25/765/50a/
 
-CV
-==
+Perfil
+------
+Sou um profissional motivado, com boa comunicação, pró-atividade, espirito de equipe e liderança.
 
-[Preencha aqui o seu cv]
+Resumo
+------
+Minha experiência em Desenvolvimento baseia-se em diversos segmentos dentro de áreas diferentes,
+Começando com desenvolvimento web (PHP) para geoprocessamento, trabalhando com sistemas de 
+informação geográficas, com módulo de banco de dados geográfico (Postgres + PostGis), integrando com 
+mapas, utilizando o RUP como modelo de engenharia de software.  <br />
+Também como desenvolvedor web, atuei na área jurídica em sistemas de processos eletrônicos, 
+ganhando experiência em grandes sistemas e frameworks de aplicação (Zend Framework).  <br />
+Como analista desenvolvedor trabalhei na área de inteligência de mercado, ganhei conhecimento na 
+criação de documentação técnica, e banco de dados (Oracle), criando Store Procedures, Triggers, e demais 
+rotinas em PL/SQL, 
+Obtive sólida experiência em versionamento (SVN) e implantação de sistemas utilizando ambiente Linux.  <br />
+Também trabalhei no processo de criação de software na área de Controle de Trabalho e segurança do 
+trabalho, participando desde a especificação, até a implantação, atuando na construção da analise de 
+requisitos, analise de sistemas (documentação feita no sistema Confluence), atuei como líder da equipe, 
+gerenciando processos também no gerenciamento do projeto através de SCRUM (utilizando módulo Agile 
+do sistema Jira) definições das demandas e elaboração da identidade visual, participando também da 
+análise de negocio.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Formação Acadêmica
+------------------
+Bacharelado em Sistemas de informação, Pontifícia Universidade católica (PUCRS) 2006 a 2010.
+
+Conhecimentos
+-------------
+* Linguagens: PHP, Java, C#, C.
+*  SGBD: Oracle, MySql, Postgres.
+*  Programação: Orientação a Objetos, UML, Modelo ER, conhecimento em padrões de projeto (MVC, DAO, 
+etc),  teste unitário (JUnit).
+*  Conhecimento em processos de Qualidade de software (CMMI), gerência de projeto (PMBOK, SCRUM).
+*  Inglês (Intermediário), XHTML, Javascript, Jquery, Prototype, CSS,  Edição de Imagem.
+
+Experiência Profissional
+------------------------
+__01/2014 - 04/2015 – Technotag Safety & RFID__ <br />
+__Cargo:__ Analista de Sistemas e Desenvolvedor Web / Analista (C#) – Team Leader <br />
+__Principais atividades:__ Desenvolvimento de documentos de análise de Requisitos (Confluence), análise de sistemas, 
+estimativa de projetos e definições das regras de negócio de produtos. Gerenciamento das demandas (Jira) da 
+equipe de desenvolvimento, implantação do produto, levantamento de requisitos, junto ao cliente.
+Referência: Cassio Scherer ([cassio.scherer@technotag.com.br]) 
+
+__11/2010 - 12/2013 – Conecta IT__ <br />
+__Cargo:__ Desenvolvedor Web / Analista (PHP)  <br />
+__Principais atividades:__ Análise e desenvolvimento manutenção de sistema Web/Desktop na área de Inteligência de 
+Mercado. Criação e manutenção de stored procedure, triggers, desenvolvimento de webservices, etc.  <br />
+Referencia: Álex Pereira ([alex.pereira@conectait.com.br])
+
+__05/2009 - 10/2010 – DB Server__ <br />
+__Cargo:__ Desenvolvedor Web (PHP)  <br />
+__Principais atividades:__ Desenvolvimento manutenção de sistemas web com ênfase na área jurídica (eproc).Desenvolvimento de webservices, etc, utilização de framework (O.O.) para persistência.  <br />
+Referencia: Paulo Gandin ([peg@trf4.br])
+
+__04/2009 - 04/2010 – LabGeo - UFRGS__
+__Cargo:__ Desenvolvedor Web (PHP) <br />
+__Principais atividades:__ Desenvolvimento de sistemas web. 
+WebDesigner e edição de imagens, suporte a site coorporativo.  <br />
+Referencia: Henrich Hasenack ([hhasenack@ufrgs.br]) – (51)3308-6909
+
+__08/2008 - 02/2009 – Embratec Good Card__
+__Cargo:__ Desenvolvedor Web (estágio/treinee).  <br />
+__Principais atividades:__ Desenvolvimento de sistemas de geoprocessamento com plataformas
+web, utilizando php. WebDesigner e edição de imagens.  <br />
+Referencia: André Cruvinel ([andrecr@goodcard.com.br]) – 2123-0150 (r. 1824)
